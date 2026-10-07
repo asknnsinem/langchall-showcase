@@ -5,7 +5,7 @@
 <h1 align="center">LangChall</h1>
 
 <p align="center">
-  İngilizceyi çeviri yaparak, rakiplerle yarışarak ve Türkiye haritasını fethederek öğreten mobil uygulama.
+  Çeviri düelloları ve Türkiye haritasında fetih oyunuyla İngilizce öğreten bir mobil uygulama.
 </p>
 
 <p align="center">
@@ -72,19 +72,10 @@ Toplam puanın 80'i doğruluktan, 20'si kalan süreden geliyor. Embedding modeli
 |---|---|
 | Mobil | React Native (Expo), TypeScript, Expo Router, react-native-svg |
 | Backend | Node.js, Express, TypeScript |
-| Veritabanı | PostgreSQL |
+| Veritabanı | PostgreSQL (Supabase) |
 | Kimlik doğrulama | JWT, bcrypt |
 | Puanlama | Transformers.js ile sentence embedding |
 | Veri hazırlama | Python script'leri |
-| Yayın | Docker, Railway |
 
-## Veri
-
-- **Kelimeler:** Wiktionary'den Python script'leriyle derlenmiş, CEFR seviyelerine (A1–C1) ayrılmış yaklaşık 5.300 kelime. Her kelimenin birden fazla kabul edilen Türkçe karşılığı var.
-- **Paragraflar:** Seviyelere göre ayrılmış İngilizce–Türkçe metinler. Aynı kullanıcıya aynı paragrafın kısa sürede tekrar çıkmaması için hangi paragrafın kime gösterildiği kaydediliyor.
-
-## Kaynak kodu
-
-Kodu incelemek isterseniz GitHub kullanıcı adınızı iletmeniz yeterli. Sizi private repoya okuma yetkisiyle eklerim.
 
 **Sinem Aşkın** · [LinkedIn](LINKEDIN_LINKI) · [GitHub](GITHUB_LINKI)
