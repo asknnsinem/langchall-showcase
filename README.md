@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/durum-geliştirme%20aşamasında-orange" alt="Durum" />
-  <img src="https://img.shields.io/badge/React%20Native-Expo%2054-000020?logo=expo" alt="Expo" />
+  <img src="https://img.shields.io/badge/React%20Native-Expo%2057-000020?logo=expo" alt="Expo" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-Express-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
