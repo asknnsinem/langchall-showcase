@@ -39,7 +39,6 @@
 |:---:|:---:|:---:|
 | <img src="screenshots/leaderboard.jpg" width="230" /> | <img src="screenshots/profile.jpg" width="230" /> | <img src="screenshots/login.jpg" width="230" /> |
 
-🎬 **Demo videosu:** [buraya video linki]
 
 ## Oyun modları
 
@@ -78,4 +77,4 @@ Toplam puanın 80'i doğruluktan, 20'si kalan süreden geliyor. Embedding modeli
 | Veri hazırlama | Python script'leri |
 
 
-**Sinem Aşkın** · [LinkedIn](LINKEDIN_LINKI) · [GitHub](GITHUB_LINKI)
+**Sinem Aşkın** · [LinkedIn](https://www.linkedin.com/in/sinemaskinn) · [GitHub](https://github.com/asknnsinem)
